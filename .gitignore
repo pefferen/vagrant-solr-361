@@ -1,0 +1,2 @@
+# We do not need the .vagrant directory as it contains instance specific information
+.vagrant
